@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Formette.iml" filepath="$PROJECT_DIR$/.idea/Formette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Beenform.iml" filepath="$PROJECT_DIR$/.idea/Beenform.iml" />
     </modules>
   </component>
 </project>
